@@ -27,7 +27,7 @@
         android:id="@+id/toolbar_container"
         style="@style/main_frame"
         android:layout_height="112dp"
-        android:elevation="8dp">
+        android:elevation="4dp">
 
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"
